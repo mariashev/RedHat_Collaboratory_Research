@@ -18,6 +18,7 @@ speed on some necessary technical details of deep learning.
 | 5| Awesome blog posts about CNN's and ML by Jeremy Jordan              | [Click Here](https://www.jeremyjordan.me/author/jeremy/)                                     |
 | 6| Visualization library for Keras Neural Networks (repo)              | [Click Here](https://github.com/gallettilance/kviz)                                          |
 | 7| Keras for beginners (NN/CNN implementations)                        | [Click Here](https://victorzhou.com/series/keras-for-beginners/)                             |
+| 8| Minh Bui (RGB vs Greyscale Image Classification Accuracy)           | [Click Here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7562656)                             |
 
 
 --- 
